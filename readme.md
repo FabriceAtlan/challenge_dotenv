@@ -30,4 +30,5 @@ Partage ta solution sur un dépôt **GitHub** contenant :
 
 1. Clonez le dépôt.
 2. Copiez le fichier `.env.sample`.
-3. Remplacez les valeurs par votre nom, votre ville et le votre language.
+3. Renommez la copie en `.env`.
+4. Remplacez les valeurs par votre nom, votre ville et le votre language.
