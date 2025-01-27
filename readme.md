@@ -29,6 +29,17 @@ Partage ta solution sur un dépôt **GitHub** contenant :
 ## Explication
 
 1. Clonez le dépôt.
+2. Installez les dépendances avec la commande suivante :
+
+```javascript
+npm install
+```
+
 2. Copiez le fichier `.env.sample`.
 3. Renommez la copie en `.env`.
-4. Remplacez les valeurs par votre nom, votre ville et le votre language.
+4. Remplacez les valeurs par votre nom, votre ville et votre language.
+5. Lancez le programme avec la commande suivante :
+
+```javascript
+node challenge_dotenv.js
+```
